@@ -24,6 +24,7 @@
 - Django Rest
 - Selenium
 - TestNG/JUnit
+- AWS EC2, S3, EKS
 
 
 <!---
