@@ -1,7 +1,7 @@
 ### 👋  Hello world, I’m iliyas Hussain
 ---
-- 💻 Currently working with awesome folks at **Infosys Ltd.** (Bangalore, India) as a Technology Lead
-- 🏢 Previously worked with the amazing peeps at **Amazon** & **Hewlett-Packard**
+- 💻 Currently working with awesome folks at **Greenway Health India Pvt. Ltd.** (Bangalore, India) as a Software Development Engineer in Testing
+- 🏢 Previously worked with the amazing peeps at **Infosys**, **Amazon** & **Hewlett-Packard**
 - 👀 Interests: All things computers, classic rock music, learning new things, gaming (console/indoors/outdoors), and sleeping
 - 🌱 Currently learning more about React Native, AI/ML using Python and Blockchain development using Solidity & Ethereum
 - 💞️ Passionate about open source tech, AI/ML, and Blockchain tech
@@ -17,14 +17,15 @@
 - Git/GitHub
 - Google Chrome
 
-### 🖼  Frameworks/Tools I've worked with
+### 🖼  Frameworks/Tools/Libraries I've worked with
 - Django
 - Spring Boot
 - React.js
 - Django Rest
 - Selenium
 - TestNG/JUnit
-- AWS EC2, S3, EKS
+- Maven/Gradle
+- AWS EC2, S3, DynamoDB
 
 
 <!---
