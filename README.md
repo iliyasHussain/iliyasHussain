@@ -1,6 +1,6 @@
 ### 👋  Hello world, I’m iliyas Hussain
 ---
-- 💻 Currently working with awesome folks at **UBS AG** in (Doha, Qatar) as a Tech Quality & Test Engineer
+- 💻 Currently working with awesome folks at **UBS AG** in Doha, Qatar as a Tech Quality & Test Engineer
 - 🏢 Previously worked with the amazing people at **Greenway Health**, **Apple (Infosys)**, **Amazon** & **Hewlett-Packard**
 - 👀 Interests: All things computers, classic rock music, learning new things & acquiring new skills, gaming (console/indoors/outdoors), and sleeping
 - 🌱 Currently learning more about Restful APIs, Gradle, Java 17, git and Azure Cloud Services
